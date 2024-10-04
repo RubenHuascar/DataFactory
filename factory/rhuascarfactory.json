@@ -1,0 +1,9 @@
+{
+	"name": "rhuascarfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9892d9cf-9266-4771-9253-7f3c8ac71866",
+		"tenantId": "79e08b18-9fe2-40c3-aa28-55702f4533c5"
+	}
+}
